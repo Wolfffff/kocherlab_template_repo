@@ -1,7 +1,3 @@
-[![Stable version](https://img.shields.io/github/v/release/{{ cookiecutter.github_username }}/{{ cookiecutter.repo_name }}?label=stable)](https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.repo_name }}/releases/) 
-[![Latest version](https://img.shields.io/github/v/release/{{ cookiecutter.github_username }}/{{ cookiecutter.repo_name }}?include_prereleases&label=latest)](https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.repo_name }}/releases/) 
-[![LICENSE](https://anaconda.org/{{ cookiecutter.github_username }}/{{ cookiecutter.repo_name }}-track/badges/license.svg)](https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.repo_name }}/blob/main/LICENSE.md)
-
 <img src="static/kocher_lab_logo.png" alt="{{ cookiecutter.project_name }} logo" width="50%">
 
 ## {{ cookiecutter.project_name }}
